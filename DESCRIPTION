@@ -1,4 +1,4 @@
-Package: FixedPoint
+Package: FixedPoints
 Type: Package
 Title: Algorithms for finding roots using Fixed point iteration and Bisection Mehtod
 Version: 0.1.0
