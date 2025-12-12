@@ -1,7 +1,3 @@
-Below is a **one-page, minimal, teaching-oriented `README.md`** with **expected output examples**, written in the exact spirit you asked for: compact, clear, and instructional.
-
----
-
 ````md
 # FixedPoint
 
