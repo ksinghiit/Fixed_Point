@@ -1,11 +1,13 @@
 Package: FixedPoint
 Type: Package
-Title: Algorithms for finding roots using Fixed point iteration and Bisection Mehtod
+Title: Root-Finding Algorithms Using Fixed-Point Iteration and the Bisection Method
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Kundan Singh
+Maintainer: Kundan Singh <kundansingh@example.com>
+Description: This package provides numerical algorithms for finding roots of nonlinear
+    equations using fixed-point iteration and the bisection method. The implemented
+    functions are designed to be simple, robust, and suitable for both educational
+    purposes and practical applications in numerical analysis.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
